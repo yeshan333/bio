@@ -4,6 +4,7 @@ import starlight from '@astrojs/starlight';
 // https://astro.build/config
 export default defineConfig({
 	site: 'https://yeshan333.github.io',
+	base: 'bio',
 	integrations: [
 		starlight({
 			title: 'ShanSan',
