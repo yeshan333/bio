@@ -3,7 +3,7 @@ import starlight from '@astrojs/starlight';
 
 // https://astro.build/config
 export default defineConfig({
-	site: 'https://yeshan333.github.io/bio',
+	site: 'https://cloudys-bio.netlify.app',
 	base: '/',
 	integrations: [
 		starlight({
