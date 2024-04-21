@@ -14,6 +14,7 @@ export default defineConfig({
 			social: {
 				github: 'https://github.com/withastro/starlight',
 			},
+			lastUpdated: true,
 			defaultLocale: 'en',
 			locales: {
 				// 英文文档在 `src/content/docs/en/` 中。
