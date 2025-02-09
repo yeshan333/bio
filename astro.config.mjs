@@ -12,7 +12,7 @@ export default defineConfig({
 				src: './src/assets/logo.jpg',
 			},
 			social: {
-				github: 'https://github.com/withastro/starlight',
+				github: 'https://github.com/yeshan333',
 			},
 			lastUpdated: true,
 			defaultLocale: 'en',
